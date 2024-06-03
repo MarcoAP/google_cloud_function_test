@@ -1,2 +1,2 @@
 # google_cloud_function_test
-12345
+bla bla bla
